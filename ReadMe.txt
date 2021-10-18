@@ -6,6 +6,6 @@ On Arch Linux and its distros: sudo pacman -S nmap hydra medusa ncrack
 
 On Debian and its distros: sudo apt install nmap hydra medusa ncrack
 
-git clone https://github.com/ady08/BruteDums
+git clone https://github.com/Unity-ParticleSystem/BruteDum-.git
 cd BruteDums
 python3 brutedum.py
